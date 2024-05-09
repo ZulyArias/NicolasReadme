@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ZulyArias&show_icons=true&theme=shadow_blue" alt="Anurag's GitHub stats">
 </div>
 
-## Educación
+## Educacion
 
 <div align="center" style="background-color: #dbe5ea; padding: 20px; border-radius: 10px;">
   <h3>Educación</h3>
