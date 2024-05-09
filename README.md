@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>README de Nicolás</h1>
-  <p>Bienvenido a mi README personal. Este documento sirve como guía para comprender mis proyectos y cómo utilizarlos de manera efectiva.</p>
+  <h1>¡Explora el mundo de Nicolás en código!</h1>
+  <p>Sumérgete en un viaje de innovación y creatividad a través de mis proyectos.</p>
 </div>
 
 ## Tabla de Contenidos
