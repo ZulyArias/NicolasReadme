@@ -22,7 +22,7 @@
 
 <div align="center" style="background-color: #dbe5ea; padding: 20px; border-radius: 10px;">
   <p>¡Abre las puertas a un arsenal de herramientas tecnológicas! Desde las sólidas bases de HTML, CSS y JavaScript hasta las emocionantes fronteras de Vue.js y Python, he explorado y conquistado diversos lenguajes y frameworks.</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZulyArias&show_icons=true&theme=shadow_blue" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZulyArias&layout=pie" alt="Top Lenguajes">
 </div>
 
 ## Proyectos
