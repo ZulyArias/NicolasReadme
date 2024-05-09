@@ -6,7 +6,7 @@
 ## Tabla de Contenidos
 
 - [Acerca de](#acerca-de)
-- [Tecnologías Utilizadas](#tecnologías-manejadas)
+- [Tecnologías Manejadas](#tecnologías-manejadas)
 
 - [Autor](#autor)
 
