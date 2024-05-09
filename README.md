@@ -20,7 +20,7 @@
 ## Tecnologías Manejadas
 
 <div align="center">
-  <p>Este proyecto utiliza las siguientes tecnologías:</p>
+  <p>He trabajado de manera grupal e individual manejando las siguientes tecnologías:</p>
   <ul>
     <li>HTML</li>
     <li>CSS</li>
