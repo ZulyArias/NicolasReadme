@@ -9,6 +9,8 @@
 - [Tecnologías Manejadas](#tecnologías-manejadas)
 - [Autor](#autor)
 - [Proyectos](#proyectos)
+- [Educación](#educacion)
+- [Status](#status)
 
 ## Acerca de
 
@@ -20,11 +22,8 @@
 
 <div align="center" style="background-color: #dbe5ea; padding: 20px; border-radius: 10px;">
   <p>¡Abre las puertas a un arsenal de herramientas tecnológicas! Desde las sólidas bases de HTML, CSS y JavaScript hasta las emocionantes fronteras de Vue.js y Python, he explorado y conquistado diversos lenguajes y frameworks.</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZulyArias&show_icons=true&theme=shadow_blue" alt="Anurag's GitHub stats">
 </div>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZulyArias&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Proyectos
 <div align="center" style="background-color: #f3f4f6; padding: 20px; border-radius: 10px;">
@@ -46,17 +45,22 @@
   </div>
 </div>
 
-
 ## Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZulyArias&show_icons=true&theme=radical)
+<div align="center" style="background-color: #f3f4f6; padding: 20px; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZulyArias&show_icons=true&theme=shadow_blue" alt="Anurag's GitHub stats">
+</div>
 
+## Educación
 
-## Educacion
-
-- Técnico en contabilidad
-- Técnico en gestion empresarial
-- Tecnólogo en desarrollo de sfotware(en proceso)
+<div align="center" style="background-color: #dbe5ea; padding: 20px; border-radius: 10px;">
+  <h3>Educación</h3>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>Técnico en contabilidad</li>
+    <li>Técnico en gestión empresarial</li>
+    <li>Tecnólogo en desarrollo de software (en proceso)</li>
+  </ul>
+</div>
 
 
 ## Autor
