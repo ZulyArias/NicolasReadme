@@ -9,8 +9,9 @@
 - [Tecnologías Manejadas](#tecnologías-manejadas)
 - [Autor](#autor)
 - [Proyectos](#proyectos)
-- [Educación](#educacion)
 - [Status](#status)
+- [Educación](#educacion)
+
 
 ## Acerca de
 
@@ -54,7 +55,7 @@
 ## Educacion
 
 <div align="center" style="background-color: #dbe5ea; padding: 20px; border-radius: 10px;">
-  <h3>Educación</h3>
+  <h3>Formación educativa:</h3>
   <ul style="list-style-type: none; padding-left: 0;">
     <li>Técnico en contabilidad</li>
     <li>Técnico en gestión empresarial</li>
