@@ -22,6 +22,10 @@
   <p>¡Abre las puertas a un arsenal de herramientas tecnológicas! Desde las sólidas bases de HTML, CSS y JavaScript hasta las emocionantes fronteras de Vue.js y Python, he explorado y conquistado diversos lenguajes y frameworks.</p>
 </div>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZulyArias&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Proyectos
 <div align="center" style="background-color: #f3f4f6; padding: 20px; border-radius: 10px;">
   <h2>¡Explora mis creaciones digitales! 🛠️</h2>
@@ -41,6 +45,18 @@
     <a href="https://portafolio-personal-nicolas-santamaria.onrender.com">Portafolio</a>
   </div>
 </div>
+
+
+## Status
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZulyArias&show_icons=true&theme=radical)
+
+
+## Educacion
+
+- Técnico en contabilidad
+- Técnico en gestion empresarial
+- Tecnólogo en desarrollo de sfotware(en proceso)
 
 
 ## Autor
