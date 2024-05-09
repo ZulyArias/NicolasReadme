@@ -1,4 +1,4 @@
-<div align="center" style="background-color: white; padding: 20px; border-radius: 10px; border: 2px solid blue">
+<div align="center" style="background-color: #f3f4f6; padding: 20px; border-radius: 10px;">
   <h1>¡Explora el mundo de Nicolás en código! 🚀</h1>
   <p>Sumérgete en un viaje de innovación y creatividad a través de mis proyectos.</p>
 </div>
