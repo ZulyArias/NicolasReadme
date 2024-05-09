@@ -6,9 +6,8 @@
 ## Tabla de Contenidos
 
 - [Acerca de](#acerca-de)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Uso](#uso)
-- [Licencia](#licencia)
+- [Tecnologías Utilizadas](#tecnologías-manejadas)
+
 - [Autor](#autor)
 
 ## Acerca de
