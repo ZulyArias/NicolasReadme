@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #f3f4f6; padding: 20px; border-radius: 10px;">
   <h1>¡Explora el mundo de Nicolás en código! 🚀</h1>
-  <p>Sumérgete en un viaje de innovación y creatividad a través de mis proyectos.</p>
+  <p>¡Bienvenido a mi rincón digital! Aquí encontrarás un universo de proyectos donde la innovación y la creatividad se entrelazan en líneas de código.</p>
 </div>
 
 ## Tabla de Contenidos
@@ -12,28 +12,18 @@
 ## Acerca de
 
 <div align="center" style="background-color: #dbe5ea; padding: 20px; border-radius: 10px;">
-  <p>Soy un estudiante en etapa lectiva del SENA, aprendo programación en la ficha de ADSO (Análisis y desarrollo de software).</p>
+  <p>¡Prepárate para una aventura en el mundo de la programación! Soy un aprendiz incansable en el fascinante viaje del desarrollo de software, navegando las olas del conocimiento en el SENA.</p>
 </div>
 
 ## Tecnologías Manejadas
 
 <div align="center" style="background-color: #dbe5ea; padding: 20px; border-radius: 10px;">
-  <p>He trabajado de manera grupal e individual manejando las siguientes tecnologías:</p>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JS</li>
-    <li>PYTHON</li>
-    <li>Vue.js</li>
-    <li>VBA</li>
-    <li>MongoDB</li>
-    <li>SQL</li>
-  </ul>
+  <p>¡Abre las puertas a un arsenal de herramientas tecnológicas! Desde las sólidas bases de HTML, CSS y JavaScript hasta las emocionantes fronteras de Vue.js y Python, he explorado y conquistado diversos lenguajes y frameworks.</p>
 </div>
 
 ## Autor
 
 <div align="center" style="background-color: #dbe5ea; padding: 20px; border-radius: 10px;">
-  <p>Autor: Nicolás</p>
+  <p>¡Soy Nicolás, el arquitecto detrás de estos proyectos! Sígueme en mi travesía de descubrimiento y aprendizaje en GitHub.</p>
   <p>GitHub: <a href="https://github.com/ZulyArias">Nicolás Santamaría</a></p>
 </div>
