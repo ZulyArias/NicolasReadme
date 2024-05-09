@@ -1,46 +1,41 @@
 <div align="center">
-  <h1>Nicolas's README</h1>
-  <p>Welcome to my personal README! This document serves as a guide to understanding my projects and how to use them effectively.</p>
+  <h1>README de Nicolás</h1>
+  <p>Bienvenido a mi README personal. Este documento sirve como guía para comprender mis proyectos y cómo utilizarlos de manera efectiva.</p>
 </div>
 
-## Table of Contents
+## Tabla de Contenidos
 
-- [About](#about)
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [License](#license)
-- [Author](#author)
+- [Acerca de](#acerca-de)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Uso](#uso)
+- [Licencia](#licencia)
+- [Autor](#autor)
 
-## About
+## Acerca de
 
 <div align="center">
-  <p>This section briefly explains what this project is about.</p>
+  <p>Soy un estudiante en etapa lectiva del SENA, aprendo programacion en la ficha de ADSO(Análisis y desarrollo de software).</p>
 </div>
 
-## Technologies Used
+## Tecnologías Manejadas
 
 <div align="center">
-  <p>This project utilizes the following technologies:</p>
+  <p>Este proyecto utiliza las siguientes tecnologías:</p>
   <ul>
-    <li>Markdown</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JS</li>
+    <li>PYTHON</li>
+    <li>Vue.js</li>
+    <li>VBA</li>
+    <li>MongoDB</li>
+    <li>SQL</li>
   </ul>
 </div>
 
-## Usage
+## Autor
 
 <div align="center">
-  <p>This section provides information on how to use the project.</p>
-</div>
-
-## License
-
-<div align="center">
-  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-</div>
-
-## Author
-
-<div align="center">
-  <p>Author: Nicolas</p>
-  <p>GitHub: <a href="https://github.com/your_username">Your GitHub Profile</a></p>
+  <p>Autor: Nicolás</p>
+  <p>GitHub: <a href="https://github.com/ZulyArias">Nicolás Santamaría</a></p>
 </div>
