@@ -1,4 +1,5 @@
 <div align="center" style="background-color: #f3f4f6; padding: 20px; border-radius: 10px;">
+  ![Profile Views](https://komarev.com/ghpvc/?username=ZulyArias)
   <h1>¡Explora el mundo de Nicolás en código! 🚀</h1>
   <p>¡Bienvenido a mi rincón digital! Aquí encontrarás un universo de proyectos donde la innovación y la creatividad se entrelazan en líneas de código.</p>
 </div>
